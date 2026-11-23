@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Aulas JS/Aula14"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Relógio Digital"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Relógio Digital"
+	}
+}
